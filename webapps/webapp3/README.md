@@ -1,6 +1,6 @@
 # webapp-boilerplate
 
-Boilerplate code for a simple WebApp
+Boilerplate code for a simple WebApp!
 
 ## Developing
 
