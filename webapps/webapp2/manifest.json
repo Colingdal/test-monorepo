@@ -2,7 +2,7 @@
   "id": "webapp2",
   "version": "0.0.1",
   "name": {
-    "en": "WebApp boilerplate"
+    "en": "webapp2"
   },
   "author": "My Company",
   "description": {
@@ -11,7 +11,7 @@
   "helpUrl": "https://example.com/webapps",
   "type": "WebApp",
   "bundled": true,
-  "maxUploadSizeInMB": 0,
+  "maxUploadSizeInMB": 2,
   "requiredLibs": {
     "react": "17.0.2"
   }
